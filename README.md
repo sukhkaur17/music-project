@@ -1,2 +1,2 @@
 # music-project
-my first project on github
+this is music website
